@@ -6,9 +6,9 @@ This repository contains a collection of tweets from Twitter user "JinjerZilla" 
 This user was frequently suspended from the platform for hateful content.
 
 
-All tweets were publicly posted by the user and had a saved version located at archive.org.
+All tweets were publicly posted by the user and had a saved version located at archive.org.  
 
-Note: List is incomplete and Twitter handles may have changed at points in time.
+Note: List is incomplete and Twitter handles may have changed at points in time.  
 
   
   
