@@ -2,10 +2,10 @@
 
 ### CONTENT WARNING: Tweets may contain racism and antisemitism.
 
-This repository contains a collection of tweets from Twitter user "JinjerZilla" to document the racism and antisemititism from these accounts. 
+This repository contains a collection of tweets from Twitter user "JinjerZilla" to document the racism and antisemitism from these accounts. 
 This user was frequently suspended from the platform for hateful content.
-
-
+    
+    
 All tweets were publicly posted by the user and had a saved version located at archive.org.  
 
 Note: List is incomplete and Twitter handles may have changed at points in time.  
