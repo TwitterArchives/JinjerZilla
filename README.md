@@ -12,7 +12,7 @@ All tweets were publicly posted by the user and had a saved version located at a
   
   
 
-**Update 2022-01-11:** 4 accounts added.
+**Update 2022-01-11:** Archives for accounts #1-4 added.
 
 | #  | Approx Date | Status    | Handle                  | User ID             | Name                          |
 | -- | ----------- | --------- | ----------------------- | ------------------- | ----------------------------- |
